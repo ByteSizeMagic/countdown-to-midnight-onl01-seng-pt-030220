@@ -5,3 +5,5 @@ def countdown(integer)
     cpunter -= 1
   end
 end
+
+countdown(10)
